@@ -2,16 +2,29 @@
   <h1>Hi 👋, I'm Hadeel Daragmeh</h1>
   <h3>Backend Engineer | Spring Boot Specialist</h3>
 </div>
+---
+
+<div align="center">
+  <h1>Hi 👋, I'm Hadeel Daragmeh</h1>
+  <h3>Backend Engineer | Spring Boot Specialist</h3>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;High+Performance+Systems;Spring+Security+%7C+JWT+%7C+OAuth2" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1dmMyemtteGR6N3VrOXh0YXM2aDVpM2pwajR1NWMxMWNyeDh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" />
 </p>
 
 ---
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="400"/>
-  
-</div>
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=HadeelDaragmeh158\&color=blue)
+
 ---
 
 ## 👩‍💻 About Me
