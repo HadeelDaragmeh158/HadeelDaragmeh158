@@ -56,35 +56,18 @@
 
 ### 🗄️ Databases
 
-<div align="center">
-
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45"/>   
-
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45"/>   
-
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" width="45"/>
-
-</div>
-
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45"/> 
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45"/> 
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" width="45"/>
 
 ### ⚙️ Tools & DevOps
 
-<div align="center">
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/>   
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40"/>   
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" width="40"/>   
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" width="40"/>   
-
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40"/>   
-
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="40"/>
-
-</div>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" width="40"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" width="40"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40"/> 
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="40"/>
 
 ---
 
