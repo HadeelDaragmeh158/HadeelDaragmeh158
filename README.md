@@ -39,29 +39,27 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
+## 🛠️ Tech Stack
 
-* Java
-* Spring Boot
-* Spring MVC
-* Spring Data JPA
-* Hibernate
+### 💻 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring MVC" width="40"/> 
+<span style="display:inline-block; vertical-align:middle; margin-left:10px;">Spring Data JPA</span> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate" width="40"/> 
 
 ### 🔐 Security
-
-* Spring Security
-* JWT
-* OAuth2
-* RBAC
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Security" width="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jwt-original.svg" title="JWT" width="40"/> 
+<span style="display:inline-block; vertical-align:middle; margin-left:10px;">OAuth2</span> 
+<span style="display:inline-block; vertical-align:middle; margin-left:10px;">RBAC</span>
 
 ### 🗄️ Databases
-
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45"/> 
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45"/> 
 <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" width="45"/>
 
 ### ⚙️ Tools & DevOps
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" width="40"/> 
