@@ -20,18 +20,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00ADB5&size=20&lines=💻+Backend+Engineer+with+4%2B+years+of+experience;🏛️+Building+enterprise+systems+in+government+sectors;🚀+Specialized+in+Spring+Boot+%26+Microservices;🔐+Strong+experience+in+Spring+Security%2C+JWT%2C+OAuth2%2C+RBAC;⚡+Focused+on+performance+optimization+%26+scalability;🤖+Currently+exploring+AI-powered+backend+systems+%28Spring+AI%29" />
 </p>
-
-<p align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
-  <a href="mailto:daragmehhadeel79@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/📧-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hadeel-daragmeh" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/💼-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/daragmehhadeel79" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🐱-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 ---
 
 ## 🧠 Core Expertise
