@@ -103,6 +103,11 @@
 
 ## 📫 Contact Me
 
-* 📧 [daragmehhadeel79@gmail.com](mailto:daragmehhadeel79@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/hadeel-daragmeh
-* 💻 GitHub: https://github.com/HadeelDaragmeh158
+<p align="left">
+  <a href="mailto:daragmehhadeel79@gmail.com">
+    <img src="https://img.shields.io/badge/Email-daragmehhadeel79@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hadeel-daragmeh">
+    <img src="https://img.shields.io/badge/LinkedIn-Hadeel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
