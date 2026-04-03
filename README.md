@@ -4,16 +4,6 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;Building+Scalable+Systems" />
-</p>
-
----
-<div align="center">
-  <h1>Hi 👋, I'm Hadeel Daragmeh</h1>
-  <h3>Backend Engineer | Spring Boot Specialist</h3>
-</div>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;High+Performance+Systems;Spring+Security+%7C+JWT+%7C+OAuth2" />
 </p>
 
