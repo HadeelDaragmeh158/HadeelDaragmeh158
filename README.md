@@ -8,11 +8,10 @@
 </p>
 
 ---
-
-## 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=HadeelDaragmeh158\&color=blue)
-
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="400"/>
+  
+</div>
 ---
 
 ## 👩‍💻 About Me
