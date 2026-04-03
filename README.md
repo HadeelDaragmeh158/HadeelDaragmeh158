@@ -56,59 +56,35 @@
 
 ### 🗄️ Databases
 
-* MySQL
-* PostgreSQL
-* Oracle
+<div align="center">
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45"/>   
+
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45"/>   
+
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" width="45"/>
+
+</div>
+
 
 ### ⚙️ Tools & DevOps
 
-* Git & GitHub
-* Maven / Gradle
-* Postman
-* Docker
+<div align="center">
 
----
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40"/>   
 
-## 🚀 Professional Experience
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" width="40"/>   
 
-### 🏛️ Backend Engineer – Taqneen Software
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="Maven" width="40"/>   
 
-* Built and maintained **enterprise microservices systems**
-* Handled **millions of records** in production systems
-* Optimized performance of large-scale reporting modules
-* Solved **N+1 query problems** and improved query efficiency
-* Implemented **caching strategies** to reduce database load
-* Built secure authentication using **JWT & OAuth2**
-* Applied **Role-Based Access Control (RBAC)**
-* Developed **asynchronous processing & scheduled jobs**
+<img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg" title="Gradle" width="40"/>   
 
----
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40"/>   
 
-## 🚀 Projects
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="40"/>
 
-### 🔹 Livestock Tracking System
+</div>
 
-* Microservices architecture
-* High-volume data processing
-* Secure REST APIs
-
-### 🔹 Utility Service Platform
-
-* Service booking & review system
-* Built with Spring Boot & MySQL
-
-### 🔹 Feasibility Study System
-
-* Secure backend system
-* Financial logic & transactional processing
-
----
-
-## 🤖 Currently Exploring
-
-* Spring AI
-* AI-powered backend APIs
-* LLM integration in enterprise systems
 
 ---
 
