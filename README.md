@@ -103,26 +103,49 @@
 
 ## 📫 Contact Me
 
-<p align="center" style="display: flex; gap: 15px; justify-content: center;">
+<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
   <a href="mailto:daragmehhadeel79@gmail.com" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px 20px; background: #ea4335; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+    <div style="
+      padding: 15px 25px;
+      background: linear-gradient(145deg, #ff5f57, #ff2d00);
+      color: white;
+      border-radius: 15px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2);
+      font-weight: bold;
+      transition: transform 0.3s, box-shadow 0.3s;
+      text-align: center;
+    " onmouseover="this.style.transform='rotateX(10deg) rotateY(10deg) scale(1.05)'; this.style.boxShadow='0 20px 30px rgba(0,0,0,0.4), 0 10px 10px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='rotateX(0deg) rotateY(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2)';">
       📧 Email Me
     </div>
   </a>
+
   <a href="https://www.linkedin.com/in/hadeel-daragmeh" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px 20px; background: #0a66c2; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+    <div style="
+      padding: 15px 25px;
+      background: linear-gradient(145deg, #0077b5, #00a0dc);
+      color: white;
+      border-radius: 15px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2);
+      font-weight: bold;
+      transition: transform 0.3s, box-shadow 0.3s;
+      text-align: center;
+    " onmouseover="this.style.transform='rotateX(10deg) rotateY(10deg) scale(1.05)'; this.style.boxShadow='0 20px 30px rgba(0,0,0,0.4), 0 10px 10px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='rotateX(0deg) rotateY(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2)';">
       💼 LinkedIn
     </div>
   </a>
+
   <a href="https://github.com/daragmehhadeel79" target="_blank" style="text-decoration: none;">
-    <div style="padding: 10px 20px; background: #171515; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+    <div style="
+      padding: 15px 25px;
+      background: linear-gradient(145deg, #333333, #555555);
+      color: white;
+      border-radius: 15px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2);
+      font-weight: bold;
+      transition: transform 0.3s, box-shadow 0.3s;
+      text-align: center;
+    " onmouseover="this.style.transform='rotateX(10deg) rotateY(10deg) scale(1.05)'; this.style.boxShadow='0 20px 30px rgba(0,0,0,0.4), 0 10px 10px rgba(0,0,0,0.3)';" onmouseout="this.style.transform='rotateX(0deg) rotateY(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.3), 0 6px 6px rgba(0,0,0,0.2)';">
       🐱 GitHub
     </div>
   </a>
 </p>
-
-<style>
-  a div:hover {
-    transform: translateY(-3px);
-  }
-</style>
