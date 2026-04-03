@@ -8,15 +8,31 @@
 </p>
 
 ---
+<div align="center">
+  <h1>Hi 👋, I'm Hadeel Daragmeh</h1>
+  <h3>Backend Engineer | Spring Boot Specialist</h3>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;High+Performance+Systems;Spring+Security+%7C+JWT+%7C+OAuth2" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=HadeelDaragmeh158\&color=blue)
+
+---
 
 ## 👩‍💻 About Me
 
 * 💻 Backend Engineer with **4+ years of experience**
 * 🏛️ Building enterprise systems in **government sectors**
 * 🚀 Specialized in **Spring Boot & Microservices**
-* 🔐 Strong experience in **Security (JWT, OAuth2, RBAC)**
+* 🔐 Strong experience in **Spring Security, JWT, OAuth2, RBAC**
 * ⚡ Focused on **performance optimization & scalability**
-* 🤖 Currently exploring **AI-powered backend systems**
+* 🤖 Currently exploring **AI-powered backend systems (Spring AI)**
 
 ---
 
@@ -59,7 +75,7 @@
 * Git & GitHub
 * Maven / Gradle
 * Postman
-* Docker (Learning & Applying)
+* Docker
 
 ---
 
@@ -71,39 +87,30 @@
 * Handled **millions of records** in production systems
 * Optimized performance of large-scale reporting modules
 * Solved **N+1 query problems** and improved query efficiency
-* Implemented **caching strategies** to reduce DB load
+* Implemented **caching strategies** to reduce database load
 * Built secure authentication using **JWT & OAuth2**
 * Applied **Role-Based Access Control (RBAC)**
 * Developed **asynchronous processing & scheduled jobs**
 
 ---
 
-## 🔥 Key Achievements
-
-* 🚀 Improved system performance for large datasets
-* ⚡ Reduced database load using caching & optimization
-* 🔐 Built secure authentication systems
-* 🧠 Designed scalable backend architectures
-
----
-
 ## 🚀 Projects
 
-### 🔹 Livestock Tracking System (Government Project)
+### 🔹 Livestock Tracking System
 
 * Microservices architecture
 * High-volume data processing
-* Secure APIs & authentication
+* Secure REST APIs
 
 ### 🔹 Utility Service Platform
 
 * Service booking & review system
-* REST APIs with Spring Boot
+* Built with Spring Boot & MySQL
 
 ### 🔹 Feasibility Study System
 
 * Secure backend system
-* Financial logic implementation
+* Financial logic & transactional processing
 
 ---
 
@@ -118,8 +125,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HadeelDaragmeh158&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HadeelDaragmeh158&show_icons=true&theme=dark"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HadeelDaragmeh158&theme=dark"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadeelDaragmeh158&layout=compact&theme=dark"/>
 </p>
+
+---
+
+## 📈 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HadeelDaragmeh158\&theme=react-dark)
 
 ---
 
