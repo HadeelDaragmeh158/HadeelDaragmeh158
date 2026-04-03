@@ -1,3 +1,8 @@
+<!-- 
+  GitHub Profile README — انسخي المحتوى إلى مستودع باسم المستخدم نفسه: github.com/USERNAME/USERNAME
+  وسمّي الملف README.md
+-->
+
 <div align="center">
 
 # Hadeel Daragmeh
@@ -8,11 +13,24 @@
 
 </div>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1dmMyemtteGR6N3VrOXh0YXM2aDVpM2pwajR1NWMxMWNyeDh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Banner" />
+</p>
+
 ---
 
 ## About
 
 Backend engineer with **4+ years** of experience building **enterprise-grade systems**, including work in **government sectors**. I specialize in **Spring Boot**, **microservices**, and **secure APIs**, with a strong focus on **Spring Security**, **JWT**, **OAuth2**, and **RBAC**. I care about **performance**, **scalability**, and **clean architecture**, and I explore **AI-assisted** patterns where they add real value to backend workflows.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Microservices-FCA121?style=for-the-badge&logo=heroku&logoColor=white" alt="Microservices" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
+  <img src="https://img.shields.io/badge/AI--powered-FF6F61?style=for-the-badge&logo=openai&logoColor=white" alt="AI-powered" />
+</p>
 
 ---
 
@@ -30,25 +48,51 @@ Backend engineer with **4+ years** of experience building **enterprise-grade sys
 
 ## Tech stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth2" />
-</p>
+### Backend
 
-**Data & tools:** Spring Data JPA · MySQL · PostgreSQL · Oracle · Git · Maven · Gradle · Postman · Docker
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" alt="Java"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" width="40" alt="Spring Boot"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring MVC" width="40" alt="Spring MVC"/></td>
+  <td align="center">Spring Data JPA</td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate" width="40" alt="Hibernate"/></td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="42" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="42" />
-</p>
+### Security
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Security" width="40" alt="Spring Security"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jsonwebtokens/jwt-original.svg" title="JWT" width="40" alt="JWT"/></td>
+  <td align="center">OAuth2</td>
+  <td align="center">RBAC</td>
+</tr>
+</table>
+
+### Databases
+
+<table>
+<tr>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" width="45" alt="MySQL"/></td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" width="45" alt="PostgreSQL"/></td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" title="Oracle" width="45" alt="Oracle"/></td>
+</tr>
+</table>
+
+### Tools & DevOps
+
+<table>
+<tr>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" alt="Git"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" alt="GitHub"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" width="40" alt="Maven"/></td>
+  <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" title="Gradle" width="40" alt="Gradle"/></td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="40" alt="Postman"/></td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" width="40" alt="Docker"/></td>
+</tr>
+</table>
 
 ---
 
