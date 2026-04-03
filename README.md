@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-powered-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
 </p>
+
 ---
 
 ## 🧠 Core Expertise
