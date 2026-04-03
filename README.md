@@ -18,7 +18,16 @@
 ## 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00ADB5&size=20&lines=💻+Backend+Engineer+with+4%2B+years+of+experience;🏛️+Building+enterprise+systems+in+government+sectors;🚀+Specialized+in+Spring+Boot+%26+Microservices;🔐+Strong+experience+in+Spring+Security%2C+JWT%2C+OAuth2%2C+RBAC;⚡+Focused+on+performance+optimization+%26+scalability;🤖+Currently+exploring+AI-powered+backend+systems+%28Spring+AI%29" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=00ADB5&size=22&lines=💻+Backend+Engineer+with+4%2B+years+experience;🏛️+Enterprise+Systems+in+Government+Sectors;🚀+Specialized+in+Spring+Boot+%26+Microservices;🔐+Expert+in+Spring+Security%2C+JWT%2C+OAuth2%2C+RBAC;⚡+Optimizing+Performance+%26+Scalability;🤖+Exploring+AI-powered+Backend+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FCA121?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-powered-FF6F61?style=for-the-badge&logo=artificial-intelligence&logoColor=white" />
 </p>
 ---
 
