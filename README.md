@@ -102,14 +102,14 @@
 ---
 
 ## 📬 Contact Me
-
-<p align="center">
-  <!-- Email Card -->
-  [![Email](https://i.ibb.co/3r3mMZf/email-card.png)](mailto:daragmehhadeel79@gmail.com)
-  
-  <!-- LinkedIn Card -->
-  [![LinkedIn](https://i.ibb.co/XYZ/linkedin-card.png)](https://www.linkedin.com/in/hadeel-daragmeh)
-  
-  <!-- GitHub Card -->
-  [![GitHub](https://i.ibb.co/XYZ/github-card.png)](https://github.com/daragmehhadeel79)
+<p align="center" style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+  <a href="mailto:daragmehhadeel79@gmail.com" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/📧-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hadeel-daragmeh" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/💼-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/daragmehhadeel79" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🐱-GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
