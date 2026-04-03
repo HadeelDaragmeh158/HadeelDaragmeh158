@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;High+Performance+Systems;Spring+Security+%7C+JWT+%7C+OAuth2" />
+  <img src="[https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=00ADB5&size=20&lines=Backend+Engineer;Spring+Boot+Specialist;Microservices+Architecture;High+Performance+Systems;Spring+Security+%7C+JWT+%7C+OAuth2](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N1dmMyemtteGR6N3VrOXh0YXM2aDVpM2pwajR1NWMxMWNyeDh3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" />
 </p>
 
 ---
