@@ -103,14 +103,26 @@
 
 ## 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:daragmehhadeel79@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-daragmehhadeel79@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<p align="center" style="display: flex; gap: 15px; justify-content: center;">
+  <a href="mailto:daragmehhadeel79@gmail.com" target="_blank" style="text-decoration: none;">
+    <div style="padding: 10px 20px; background: #ea4335; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+      📧 Email Me
+    </div>
   </a>
-  <a href="https://www.linkedin.com/in/hadeel-daragmeh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hadeel-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/hadeel-daragmeh" target="_blank" style="text-decoration: none;">
+    <div style="padding: 10px 20px; background: #0a66c2; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+      💼 LinkedIn
+    </div>
   </a>
-  <a href="https://github.com/daragmehhadeel79" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Daragmeh-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/daragmehhadeel79" target="_blank" style="text-decoration: none;">
+    <div style="padding: 10px 20px; background: #171515; color: white; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.2); font-weight: bold; transition: transform 0.2s;">
+      🐱 GitHub
+    </div>
   </a>
 </p>
+
+<style>
+  a div:hover {
+    transform: translateY(-3px);
+  }
+</style>
